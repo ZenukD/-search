@@ -91,10 +91,15 @@ function searchByBarcode() {
     displayResults(results, "searchResults");
 }
 
-function displayResults(results, tableId) {
+function displayResults(results, tableId, sortBy) {
     const output = document.getElementById(tableId).getElementsByTagName('tbody')[0];
     let html = "";
     if (results.length > 0) {
+        // Sort results by the specified property
+        if (sortBy) {
+            results.sort((a, b) => a[sortBy].localeCompare(b[sortBy]));
+        }
+
         results.forEach(function (product) {
             html += "<tr><td>" + product.name + "</td><td>" + product.price  + "</td><td>" + product.barcode + "</td></tr>";
         });
@@ -103,3 +108,4 @@ function displayResults(results, tableId) {
     }
     output.innerHTML = html;
 }
+
