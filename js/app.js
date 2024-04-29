@@ -16,7 +16,7 @@ const products = [
     { name: "грузики набір в кор мал", price: "35", barcode: "", category: "Рибалка" },
     { name: "гачок + сверло для бойлів", price: "50", barcode: "", category: "Рибалка" },
     { name: "сверло для бойлів", price: "24", barcode: "6942576354235", category: "Рибалка" },
-    { name: "воблери в асорт", price: "86", barcode: "", category: "Рибалка" },
+    { name: "воблери в асорт", price: "86", barcode: "4391081236737", category: "Рибалка" },
     { name: "наживка плаваюча в асорт", price: "6", barcode: "", category: "Рибалка" },
     { name: "поплавки кол", price: "24", barcode: "", category: "Рибалка" },
     { name: "поплавки якісні", price: "37", barcode: "", category: "Рибалка" },
@@ -675,7 +675,7 @@ const products = [
     { name: "Пишу*Малюю*Навчаюсь.Пишу друковані та рукописні літери", price: "54", barcode: "", category: "Канцтовари" },
     { name: "Ніж канцелярський, 13см, 5-34, Імп", price: "10", barcode: "2000003355259", category: "Канцтовари" },
     { name: "Клей-олівець, 15гр, Leader", price: "10", barcode: "6939219011344", category: "Канцтовари" },
-    { name: "9 арк", price: "31", barcode: "4820168950056", category: "Канцтовари" },
+    { name: "картон кольор 9 арк", price: "31", barcode: "4820168950056", category: "Канцтовари" },
     { name: "скотч декор", price: "16", barcode: "", category: "Канцтовари" },
     { name: "стакан для ручок", price: "24", barcode: "2310000528861", category: "Канцтовари" },
     { name: "лопатка взуття мала", price: "24", barcode: "", category: "Господарські товари" },
@@ -1332,7 +1332,21 @@ const products = [
     { name: "Сито для просіювання борошна №6", price: "72", barcode: "", category: "Господарські товари" },
     { name: "мильничка на присоску", price: "36", barcode: "", category: "Господарські товари" },
     { name: "валик для чищення одягу 60", price: "42", barcode: "4820207591486", category: "Господарські товари" },
-    { name: "станок чол", price: "20", barcode: "", category: "Господарські товари" }
+    { name: "станок чол", price: "20", barcode: "", category: "Господарські товари" },
+    { name: "лампадка нова мала", price: "58", barcode: "", category: "Господарські товари" },
+    { name: "лампадка з квіткою", price: "120", barcode: "", category: "Господарські товари" },
+    { name: "лампадка жовта", price: "110", barcode: "", category: "Господарські товари" },
+    { name: "набір в пісок", price: "78", barcode: "4823037600489", category: "Іграшка" },
+    { name: "рулетка 3м лв", price: "47", barcode: "5982415156860", category: "Господарські товари" },
+    { name: "набір в пісок", price: "78", barcode: "4823037600489", category: "Іграшка" },
+    { name: "літаюча тарілка фрісбі", price: "48", barcode: "4823037602131", category: "Іграшка" },
+    { name: "ракетка мала", price: "126", barcode: "4823037600373", category: "Іграшка" },
+    { name: "набір пісок прозоре відро", price: "126", barcode: "4823037607228", category: "Іграшка" },
+    { name: "мякі звірятка", price: "18", barcode: "6820230012451", category: "Іграшка" },
+    { name: "мяч гравіті бол", price: "95", barcode: "", category: "Іграшка" },
+    { name: "попригунчики", price: "12", barcode: "", category: "Іграшка" },
+    { name: "мильні бульки з фігуркою", price: "23", barcode: "", category: "Іграшка" },
+    { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
 ];
 
 
@@ -1408,7 +1422,6 @@ function filterByCategory() {
 }
 
 function displayFilteredProducts(filteredProducts) {
-    // Sort filtered products by name
     filteredProducts.sort((a, b) => a.name.localeCompare(b.name));
 
     const allProductsTable = document.getElementById("allProducts").getElementsByTagName('tbody')[0];
