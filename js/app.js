@@ -519,7 +519,7 @@ const products = [
     { name: "папка для праці", price: "96", barcode: "4820203700226", category: "Канцтовари" },
     { name: "підставка для книг в асорт", price: "60", barcode: "2000009224801", category: "Канцтовари" },
     { name: "бандана", price: "186", barcode: "", category: "Канцтовари" },
-    { name: "пакет сумка", price: "6", barcode: "", category: "Канцтовари" },
+    { name: "пакет сумка", price: "8", barcode: "", category: "Господарські товари" },
     { name: "зошит 12арк в асорт", price: "6", barcode: "", category: "Канцтовари" },
     { name: "зошит 18арк в асорт", price: "8", barcode: "", category: "Канцтовари" },
     { name: "зошит 24арк в асорт", price: "12", barcode: "", category: "Канцтовари" },
@@ -1062,7 +1062,7 @@ const products = [
     { name: "кусачки для нігтей вел", price: "30", barcode: "6926713621254", category: "Господарські товари" },
     { name: "ножиці манікюрні", price: "28", barcode: "6926713621353", category: "Господарські товари" },
     { name: "кусачки для нігтей мал", price: "27", barcode: "40006428081733", category: "Господарські товари" },
-    { name: "пінцет", price: "14", barcode: "2021091800018", category: "Господарські товари" },
+    { name: "пінцет", price: "21", barcode: "2021091800018", category: "Господарські товари" },
     { name: "пилочка 2-ох стор метал", price: "18", barcode: "6983848517708", category: "Господарські товари" },
     { name: "пилочка манік скляна", price: "25", barcode: "", category: "Господарські товари" },
     { name: "щітка дер для волосся", price: "36", barcode: "", category: "Господарські товари" },
@@ -1347,6 +1347,7 @@ const products = [
     { name: "попригунчики", price: "12", barcode: "", category: "Іграшка" },
     { name: "мильні бульки з фігуркою", price: "23", barcode: "", category: "Іграшка" },
     { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
+    { name: "курча пасхальне", price: "12", barcode: "", category: "Господарські товари" },
 ];
 
 
