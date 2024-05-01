@@ -857,7 +857,7 @@ const products = [
     { name: "розпилювач для банки", price: "17", barcode: "", category: "Господарські товари" },
     { name: "банка з розпилювачем", price: "30", barcode: "", category: "Господарські товари" },
     { name: "банка з розпилювачем груша", price: "40", barcode: "", category: "Господарські товари" },
-    { name: "бутилка для води My Botle", price: "96", barcode: "", category: "Господарські товари" },
+    { name: "бутилка для води My Botle", price: "60", barcode: "", category: "Господарські товари" },
     { name: "термос 0,5", price: "268", barcode: "7632500320123", category: "Господарські товари" },
     { name: "підставка для столових приборів пеньок", price: "67", barcode: "", category: "Господарські товари" },
     { name: "підставка для столових приборів овал", price: "103", barcode: "", category: "Господарські товари" },
@@ -1348,6 +1348,7 @@ const products = [
     { name: "мильні бульки з фігуркою", price: "23", barcode: "", category: "Іграшка" },
     { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
     { name: "курча пасхальне", price: "12", barcode: "", category: "Господарські товари" },
+    { name: "бутилка для води My Botle в чехлі", price: "90", barcode: "", category: "Господарські товари" },
 ];
 
 
