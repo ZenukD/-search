@@ -438,7 +438,7 @@ const products = [
     { name: "степлер сер", price: "94", barcode: "4823078958617", category: "Канцтовари" },
     { name: "діркопробивач", price: "62", barcode: "3939184888111", category: "Канцтовари" },
     { name: "кнопки канц", price: "15", barcode: "6925410800382", category: "Канцтовари" },
-    { name: "Скріпки, 28мм, нікельовані, 100шт., CІ Leader", price: "16", barcode: "6925410800221", category: "Канцтовари" },
+    { name: "Скріпки, 28мм, нікельовані, 100шт., CІ Leader", price: "14", barcode: "6925410800221", category: "Канцтовари" },
     { name: "скоби до степлера 12/10", price: "8", barcode: "", category: "Канцтовари" },
     { name: "Скоби для степлера, 24/6, металеві 1000шт.,Leader", price: "12", barcode: "6925410802461", category: "Канцтовари" },
     { name: "лінійка 30см пласт", price: "12", barcode: "4820707081005", category: "Канцтовари" },
@@ -911,7 +911,7 @@ const products = [
     { name: "набір для годування", price: "60", barcode: "6900067438508", category: "Господарські товари" },
     { name: "сито з черв ручкою сер", price: "16", barcode: "", category: "Господарські товари" },
     { name: "сито з ручкою 16см", price: "60", barcode: "", category: "Господарські товари" },
-    { name: "сито з ручкою 18см", price: "70", barcode: "", category: "Господарські товари" },
+    { name: "сито з ручкою 18см", price: "80", barcode: "", category: "Господарські товари" },
     { name: "сито з ручкою 20см", price: "90", barcode: "", category: "Господарські товари" },
     { name: "набір трубочок 30шт", price: "10", barcode: "", category: "Господарські товари" },
     { name: "форма для оформлення", price: "30", barcode: "", category: "Господарські товари" },
@@ -1349,6 +1349,8 @@ const products = [
     { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
     { name: "курча пасхальне", price: "12", barcode: "", category: "Господарські товари" },
     { name: "бутилка для води My Botle в чехлі", price: "90", barcode: "", category: "Господарські товари" },
+    { name: "значок смайл світиться", price: "34", barcode: "", category: "Іграшка" },
+    { name: "окуляри деш", price: "40", barcode: "", category: "Господарські товари" },
 ];
 
 
