@@ -1351,6 +1351,8 @@ const products = [
     { name: "бутилка для води My Botle в чехлі", price: "90", barcode: "", category: "Господарські товари" },
     { name: "значок смайл світиться", price: "34", barcode: "", category: "Іграшка" },
     { name: "окуляри деш", price: "40", barcode: "", category: "Господарські товари" },
+    { name: "гра мавпочка пласт з кулькою", price: "15", barcode: "", category: "Іграшка" },
+    { name: "перстень дит метал", price: "15", barcode: "", category: "Іграшка" },
 ];
 
 
