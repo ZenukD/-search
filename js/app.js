@@ -54,7 +54,7 @@ const products = [
     { name: "гігієнічна помада", price: "12", barcode: "6953350912385", category: "Хімія" },
     { name: "одеколон трійний в асорт", price: "30", barcode: "4820010220092", category: "Хімія" },
     { name: "рідина для зняття лаку ноготок 100", price: "45", barcode: "4820031460033", category: "Хімія" },
-    { name: "рідина для зняття лаку 50", price: "28", barcode: "4820031460019", category: "Хімія" },
+    { name: "рідина для зняття лаку 50", price: "32", barcode: "4820031460019", category: "Хімія" },
     { name: "білизна", price: "17", barcode: "4820210640423", category: "Хімія" },
     { name: "мило рідке 5л", price: "155", barcode: "", category: "Хімія" },
     { name: "рідина для миття посуду 5л плин", price: "135", barcode: "", category: "Хімія" },
@@ -1353,6 +1353,20 @@ const products = [
     { name: "окуляри деш", price: "40", barcode: "", category: "Господарські товари" },
     { name: "гра мавпочка пласт з кулькою", price: "15", barcode: "", category: "Іграшка" },
     { name: "перстень дит метал", price: "15", barcode: "", category: "Іграшка" },
+    { name: "набір фрукти пласт 5309", price: "86", barcode: "4823037605309", category: "Іграшка" },
+    { name: "набір дитячої косметики метелик", price: "110", barcode: "", category: "Іграшка" },
+    { name: "гра набір для риболовлі 7594", price: "156", barcode: "4823037607594", category: "Іграшка" },
+    { name: "антимоскітна сітка на двері 100х210", price: "144", barcode: "", category: "Господарські товари" },
+    { name: "лопатка дит пласт гулівер 2766", price: "50", barcode: "4823037602766", category: "Іграшка" },
+    { name: "дихлофос", price: "78", barcode: "0745114986665", category: "Хімія" },
+    { name: "гель від тарганів", price: "48", barcode: "4820211290085", category: "Хімія" },
+    { name: "мяч з резинкою", price: "38", barcode: "", category: "Іграшка" },
+    { name: "тату кольорове", price: "8", barcode: "", category: "Іграшка" },
+    { name: "валик для чищення одягу", price: "44", barcode: "4820390479714", category: "Господарські товари" },
+    { name: "вентилятор дит", price: "52", barcode: "", category: "Іграшка" },
+    { name: "будильник", price: "90", barcode: "", category: "Господарські товари" },
+    { name: "гра картки бравел старс", price: "24", barcode: "6921005901250", category: "Іграшка" },
+
 ];
 
 
