@@ -937,8 +937,8 @@ const products = [
     { name: "ніж біла ручка", price: "50", barcode: "", category: "Господарські товари" },
     { name: "ніж пилочка деш", price: "26", barcode: "", category: "Господарські товари" },
     { name: "ніж з пилочкою дер ручка", price: "33", barcode: "", category: "Господарські товари" },
-    { name: "ніж економка", price: "14", barcode: "", category: "Господарські товари" },
-    { name: "ніж економка 2леза", price: "20", barcode: "", category: "Господарські товари" },
+    { name: "ніж економка овочечистка", price: "14", barcode: "", category: "Господарські товари" },
+    { name: "ніж економка 2леза овочечистка", price: "20", barcode: "", category: "Господарські товари" },
     { name: "відкривачка дер", price: "22", barcode: "", category: "Господарські товари" },
     { name: "відкривачка метал + штопор", price: "22", barcode: "", category: "Господарські товари" },
     { name: "штопор дер", price: "20", barcode: "", category: "Господарські товари" },
@@ -1023,7 +1023,7 @@ const products = [
     { name: "підставка дер квітка вел", price: "20", barcode: "", category: "Господарські товари" },
     { name: "підставка дер якісн", price: "42", barcode: "", category: "Господарські товари" },
     { name: "піставка дер", price: "25", barcode: "", category: "Господарські товари" },
-    { name: "терка китай", price: "41", barcode: "", category: "Господарські товари" },
+    { name: "терка китай", price: "54", barcode: "", category: "Господарські товари" },
     { name: "тарілки набір святкові", price: "30", barcode: "", category: "Господарські товари" },
     { name: "кульки А70", price: "1", barcode: "", category: "Господарські товари" },
     { name: "кульки надувні більш", price: "4", barcode: "", category: "Господарські товари" },
@@ -1433,6 +1433,7 @@ const products = [
     { name: "Манікюрний набір 8353 тіпси, слайдери, пилочка, розділювач для пальчиків, каблучки, браслет", price: "42", barcode: "6983650401356", category: "Іграшка" },
     { name: "точилка 0652", price: "6", barcode: "", category: "Канцтовари" },
     { name: "насос для мячів С 2965", price: "156", barcode: "6900067296597", category: "Господарські товари" },
+    { name: "дротик для посуду 1шт", price: "15", barcode: "", category: "Господарські товари" },
 
 ];
 
