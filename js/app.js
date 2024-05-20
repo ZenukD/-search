@@ -1343,7 +1343,7 @@ const products = [
     { name: "ракетка мала", price: "126", barcode: "4823037600373", category: "Іграшка" },
     { name: "набір пісок прозоре відро", price: "126", barcode: "4823037607228", category: "Іграшка" },
     { name: "мякі звірятка", price: "18", barcode: "6820230012451", category: "Іграшка" },
-    { name: "мяч гравіті бол", price: "95", barcode: "", category: "Іграшка" },
+    { name: "мяч гравіті бол", price: "110", barcode: "", category: "Іграшка" },
     { name: "попригунчики", price: "12", barcode: "", category: "Іграшка" },
     { name: "мильні бульки з фігуркою", price: "23", barcode: "", category: "Іграшка" },
     { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
@@ -1439,6 +1439,13 @@ const products = [
     { name: "сачок для метеликів бамб", price: "50", barcode: "89311127", category: "Іграшка" },
     { name: "сачок для метеликів розкладний", price: "50", barcode: "19097466", category: "Іграшка" },
     { name: "папір пергаментний 6м", price: "20", barcode: "4880201379886", category: "Господарські товари" },
+    { name: "брелок ейфелева вежа", price: "18", barcode: "", category: "Господарські товари" },
+    { name: "свічка на батар мала", price: "18", barcode: "", category: "Господарські товари" },
+    { name: "дзеркало розкладне дит", price: "36", barcode: "", category: "Господарські товари" },
+    { name: "номер телефон в машину", price: "40", barcode: "6920236712031", category: "Господарські товари" },
+    { name: "брелок марка авто", price: "40", barcode: "", category: "Господарські товари" },
+    { name: "брелок антистрес гусениця", price: "52", barcode: "6902362903903", category: "Іграшка" },
+    { name: "антистрес фітжет", price: "110", barcode: "6902362903903", category: "Іграшка" },
 
 
 ];
