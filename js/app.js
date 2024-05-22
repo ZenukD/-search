@@ -422,7 +422,7 @@ const products = [
     { name: "скотч 2-ох стор паралон", price: "27", barcode: "6954872016727", category: "Канцтовари" },
     { name: "магніт 2шт", price: "17", barcode: "", category: "Канцтовари" },
     { name: "ручка 505 в асорт", price: "3", barcode: "", category: "Канцтовари" },
-    { name: "ручка 503 синя", price: "6", barcode: "", category: "Канцтовари" },
+    { name: "ручка 503 синя", price: "6", barcode: "6920930350362", category: "Канцтовари" },
     { name: "ручка 806 А в асорт", price: "8", barcode: "", category: "Канцтовари" },
     { name: "ручка з звірятами", price: "15", barcode: "", category: "Канцтовари" },
     { name: "ручка zentek", price: "9", barcode: "", category: "Канцтовари" },
@@ -1446,6 +1446,7 @@ const products = [
     { name: "брелок марка авто", price: "40", barcode: "", category: "Господарські товари" },
     { name: "брелок антистрес гусениця", price: "52", barcode: "6902362903903", category: "Іграшка" },
     { name: "антистрес фітжет", price: "110", barcode: "6902362903903", category: "Іграшка" },
+    { name: "гранадлі", price: "5", barcode: "", category: "Господарські товари" },
 
 
 ];
