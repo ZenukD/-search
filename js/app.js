@@ -312,7 +312,7 @@ const products = [
     { name: "Настільна гра Хто Я чорн", price: "202", barcode: "4820186076356", category: "Іграшка" },
     { name: "пазли 500 елементів данко тойс", price: "158", barcode: "", category: "Іграшка" },
     { name: "пазли 1000 елементів данко тойс", price: "208", barcode: "", category: "Іграшка" },
-    { name: "самоскид 0991", price: "206", barcode: "4823037600991", category: "Іграшка" },
+    { name: "самоскид 0991", price: "208", barcode: "4823037600991", category: "Іграшка" },
     { name: "конструктор самоскид", price: "308", barcode: "4820122910324", category: "Іграшка" },
     { name: "самоскид військовий М4 287", price: "186", barcode: "4823036907534", category: "Іграшка" },
     { name: "самоскид оріон М4 287", price: "180", barcode: "4823036902287", category: "Іграшка" },
@@ -1479,7 +1479,17 @@ const products = [
     { name: "булавки лідер", price: "30", barcode: "6969078558216", category: "Господарські товари" },
     { name: "батарейка бочка R14 RABLEX", price: "32", barcode: "", category: "Господарські товари" },
     { name: "батарейка бочка R14 HUNDAI", price: "38", barcode: "", category: "Господарські товари" },
-
+    { name: "лоток для яєць", price: "58", barcode: "", category: "Господарські товари" },
+    { name: "набір відро + поливалка 0106", price: "134", barcode: "4823037600106", category: "Штука" },
+    { name: "млинок для піску 2742", price: "168", barcode: "4823037602746", category: "Штука" },
+    { name: "совочок для піску", price: "20", barcode: "4823037605590", category: "Штука" },
+    { name: "трактор 6887", price: "298", barcode: "48230376006887", category: "Штука" },
+    { name: "трактор 6894", price: "298", barcode: "4823037606894", category: "Штука" },
+    { name: "будмайданчик 0977", price: "186", barcode: "4823037600977", category: "Штука" },
+    { name: "трактор з двома ковшами 3671", price: "272", barcode: "4823037603671", category: "Штука" },
+    { name: "трактор з причепом 3688", price: "375", barcode: "4823037603688", category: "Штука" },
+    { name: "бумеранг 4081", price: "16", barcode: "4823037604081", category: "Штука" },
+    { name: "набір для піску 3138", price: "95", barcode: "4823037603138", category: "Штука" }
 
 ];
 
