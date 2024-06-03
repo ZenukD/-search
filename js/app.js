@@ -1480,16 +1480,21 @@ const products = [
     { name: "батарейка бочка R14 RABLEX", price: "32", barcode: "", category: "Господарські товари" },
     { name: "батарейка бочка R14 HUNDAI", price: "38", barcode: "", category: "Господарські товари" },
     { name: "лоток для яєць", price: "58", barcode: "", category: "Господарські товари" },
-    { name: "набір відро + поливалка 0106", price: "134", barcode: "4823037600106", category: "Штука" },
-    { name: "млинок для піску 2742", price: "168", barcode: "4823037602746", category: "Штука" },
-    { name: "совочок для піску", price: "20", barcode: "4823037605590", category: "Штука" },
-    { name: "трактор 6887", price: "298", barcode: "48230376006887", category: "Штука" },
-    { name: "трактор 6894", price: "298", barcode: "4823037606894", category: "Штука" },
-    { name: "будмайданчик 0977", price: "186", barcode: "4823037600977", category: "Штука" },
-    { name: "трактор з двома ковшами 3671", price: "272", barcode: "4823037603671", category: "Штука" },
-    { name: "трактор з причепом 3688", price: "375", barcode: "4823037603688", category: "Штука" },
-    { name: "бумеранг 4081", price: "16", barcode: "4823037604081", category: "Штука" },
-    { name: "набір для піску 3138", price: "95", barcode: "4823037603138", category: "Штука" }
+    { name: "набір відро + поливалка 0106", price: "134", barcode: "4823037600106", category: "Іграшка" },
+    { name: "млинок для піску 2742", price: "168", barcode: "4823037602746", category: "Іграшка" },
+    { name: "совочок для піску", price: "20", barcode: "4823037605590", category: "Іграшка" },
+    { name: "трактор 6887", price: "298", barcode: "48230376006887", category: "Іграшка" },
+    { name: "трактор 6894", price: "298", barcode: "4823037606894", category: "Іграшка" },
+    { name: "будмайданчик 0977", price: "186", barcode: "4823037600977", category: "Іграшка" },
+    { name: "трактор з двома ковшами 3671", price: "272", barcode: "4823037603671", category: "Іграшка" },
+    { name: "трактор з причепом 3688", price: "375", barcode: "4823037603688", category: "Іграшка" },
+    { name: "бумеранг 4081", price: "16", barcode: "4823037604081", category: "Іграшка" },
+    { name: "набір для піску 3138", price: "95", barcode: "4823037603138", category: "Іграшка" },
+    { name: "антистрес кінг конг", price: "100", barcode: "", category: "Іграшка" },
+    { name: "релок morf worm", price: "80", barcode: "", category: "Іграшка" },
+    { name: "зірка співає і повторяє", price: "290", barcode: "", category: "Іграшка" },
+    { name: "кубік рубіка", price: "30", barcode: "", category: "Іграшка" },
+
 
 ];
 
