@@ -766,7 +766,7 @@ const products = [
     { name: "пемза деш на листі", price: "18", barcode: "3548589000037", category: "Господарські товари" },
     { name: "сумка суничка", price: "29", barcode: "", category: "Господарські товари" },
     { name: "кипятильник", price: "40", barcode: "", category: "Господарські товари" },
-    { name: "шампура метал", price: "20", barcode: "", category: "Господарські товари" },
+    { name: "шампура метал", price: "18", barcode: "", category: "Господарські товари" },
     { name: "гачки планка 5шт", price: "32", barcode: "", category: "Господарські товари" },
     { name: "шнурок для білизни 6м", price: "12", barcode: "", category: "Господарські товари" },
     { name: "щітка вел з ручкою взуття", price: "30", barcode: "", category: "Господарські товари" },
@@ -1345,7 +1345,7 @@ const products = [
     { name: "мякі звірятка", price: "18", barcode: "6820230012451", category: "Іграшка" },
     { name: "мяч гравіті бол", price: "110", barcode: "", category: "Іграшка" },
     { name: "попригунчики", price: "12", barcode: "", category: "Іграшка" },
-    { name: "мильні бульки з фігуркою", price: "23", barcode: "", category: "Іграшка" },
+    { name: "мильні бульки з фігуркою", price: "28", barcode: "", category: "Іграшка" },
     { name: "накладні нігті", price: "25", barcode: "", category: "Іграшка" },
     { name: "курча пасхальне", price: "12", barcode: "", category: "Господарські товари" },
     { name: "бутилка для води My Botle в чехлі", price: "90", barcode: "", category: "Господарські товари" },
@@ -1507,6 +1507,9 @@ const products = [
     { name: "вудочка 2.40м деш", price: "206", barcode: "", category: "Рибалка" },
     { name: "вудочка 2.70м деш", price: "236", barcode: "", category: "Рибалка" },
     { name: "трійник", price: "10", barcode: "2000155495599", category: "Рибалка" },
+    { name: "Млинок 2 ТехноК арт. 2742", price: "168", barcode: "4823037602742", category: "Іграшка" },
+    { name: "точилка деш", price: "8", barcode: "", category: "Канцтовари" },
+    { name: "резинки для плетіння в пакеті", price: "20", barcode: "6974133400430", category: "Іграшка" },
 
 
 ];
