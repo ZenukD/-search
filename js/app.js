@@ -1510,6 +1510,7 @@ const products = [
     { name: "Млинок 2 ТехноК арт. 2742", price: "168", barcode: "4823037602742", category: "Іграшка" },
     { name: "точилка деш", price: "8", barcode: "", category: "Канцтовари" },
     { name: "резинки для плетіння в пакеті", price: "20", barcode: "6974133400430", category: "Іграшка" },
+    { name: "пакет подарунковий w10-20", price: "10", barcode: "", category: "Канцтовари" },
 
 
 ];
