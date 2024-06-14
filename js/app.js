@@ -1511,6 +1511,7 @@ const products = [
     { name: "точилка деш", price: "8", barcode: "", category: "Канцтовари" },
     { name: "резинки для плетіння в пакеті", price: "20", barcode: "6974133400430", category: "Іграшка" },
     { name: "пакет подарунковий w10-20", price: "10", barcode: "", category: "Канцтовари" },
+    { name: "рідке мило манго 500мл", price: "30", barcode: "4820051293970", category: "Хімія" },
 
 
 ];
