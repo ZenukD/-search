@@ -1515,6 +1515,12 @@ const products = [
     { name: "сито набір 3шт пласт ручка", price: "76", barcode: "", category: "Господарські товари" },
     { name: "капсули для прання savex", price: "17", barcode: "4820051293970", category: "Хімія" },
     { name: "мило baby 0+", price: "15", barcode: "4820195500712", category: "Хімія" },
+    { name: "іграшка ловець ( мяч присоска )", price: "89", barcode: "", category: "Іграшка" },
+    { name: "лялька Пупсик A201-G", price: "198", barcode: "6903317617005", category: "Іграшка" },
+    { name: "3Д ручка", price: "489", barcode: "", category: "Іграшка" },
+    { name: "решітка для грилю торнадо", price: "320", barcode: "6474748541523", category: "Господарські товари" },
+    { name: "решітка для грилю стенсон", price: "260", barcode: "6907340582323", category: "Господарські товари" },
+
 
 ];
 
