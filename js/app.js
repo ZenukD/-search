@@ -1520,6 +1520,8 @@ const products = [
     { name: "3Д ручка", price: "489", barcode: "", category: "Іграшка" },
     { name: "решітка для грилю торнадо", price: "320", barcode: "6474748541523", category: "Господарські товари" },
     { name: "решітка для грилю стенсон", price: "260", barcode: "6907340582323", category: "Господарські товари" },
+    { name: "слайм баночка", price: "44", barcode: "", category: "Іграшка" },
+    { name: "водний пістолет 0296", price: "102", barcode: "6903317228539", category: "Іграшка" },
 
 
 ];
