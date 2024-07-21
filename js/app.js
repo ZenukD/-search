@@ -422,7 +422,7 @@ const products = [
     { name: "скотч 2-ох стор паралон", price: "27", barcode: "6954872016727", category: "Канцтовари" },
     { name: "магніт 2шт", price: "17", barcode: "", category: "Канцтовари" },
     { name: "ручка 505 в асорт", price: "3", barcode: "", category: "Канцтовари" },
-    { name: "ручка 503 синя", price: "6", barcode: "6920930350362", category: "Канцтовари" },
+    { name: "ручка 503 синя", price: "7", barcode: "6920930350362", category: "Канцтовари" },
     { name: "ручка 806 А в асорт", price: "8", barcode: "", category: "Канцтовари" },
     { name: "ручка з звірятами", price: "15", barcode: "", category: "Канцтовари" },
     { name: "ручка zentek", price: "9", barcode: "", category: "Канцтовари" },
@@ -1522,6 +1522,9 @@ const products = [
     { name: "решітка для грилю стенсон", price: "260", barcode: "6907340582323", category: "Господарські товари" },
     { name: "слайм баночка", price: "44", barcode: "", category: "Іграшка" },
     { name: "водний пістолет 0296", price: "102", barcode: "6903317228539", category: "Іграшка" },
+    { name: "совок для сипучих", price: "22", barcode: "", category: "Господарські товари" },
+    { name: "ліхтар на голову LED деш", price: "80", barcode: "", category: "Господарські товари" },
+    { name: "пакет подарунковий SM3913S-2", price: "34", barcode: "1245889057892", category: "Канцтовари" },
 
 
 ];
