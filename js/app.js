@@ -1603,7 +1603,7 @@ const products = [
     { name: "Поні P 197 аксесуари, в пакеті", price: "114", barcode: "6982521430686", category: "Іграшка" },
     { name: "Машинка 788 інерція, у пакеті", price: "44", barcode: "6968054090054", category: "Іграшка" },
     { name: "Лялька YF 1138 W", price: "132", barcode: "6980867439721", category: "Іграшка" },
-    { name: "Пазли 1500 ел. \"Danko Toys\"", price: "128", barcode: "", category: "Іграшка" },
+    { name: "Пазли 1500 ел. \"Danko Toys\"", price: "228", barcode: "", category: "Іграшка" },
     { name: "Гравюра панорама економ ГрВ2 (50) \"Danko Toys\"", price: "64", barcode: "4820150912222", category: "Іграшка" },
     { name: "Літак 129 інерція, в пакеті", price: "88", barcode: "6966906110271", category: "Іграшка" },
     { name: "Машина на радіокеруванні 555-3 А", price: "368", barcode: "6982925083129", category: "Іграшка" },
@@ -1694,7 +1694,10 @@ const products = [
     { name: "Набір цифр 8314 2 комплекти цифр від 0 до 9, арифметичні знаки, на листі", price: "42", barcode: "6981807270152", category: "Іграшка" },
     { name: "Конструктор 336-1 (480/2) 58 деталей, в пакеті", price: "40", barcode: "6981404260235", category: "Іграшка" },
     { name: "Пазл Hard-S \"Harry Potter. Форд Англія\" 350 елементів \"DoDo\"", price: "120", barcode: "4823115908643", category: "Іграшка" },
-
+    { name: "Пазли 117 ел. \"G Toys\" \"Frozen\" FR 044 (62) +постер", price: "76", barcode: "4824687638662", category: "Іграшка" },
+    { name: "Пазли 35 ел. \"G Toys\" \"Тачки\" Z 10188 (62) +постер", price: "76", barcode: "4824687636569", category: "Іграшка" },
+    { name: "Пазли 117 ел. \"G-Toys\" \"Frozen\" FR 014 (62) + постер", price: "76", barcode: "4824687634381", category: "Іграшка" },
+    { name: "Пазли \"G-Toys\" \"Тачки\" Z 10204 35 ел", price: "76", barcode: "4824687630802", category: "Іграшка" },
 
 
 
