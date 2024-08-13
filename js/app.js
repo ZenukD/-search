@@ -1712,7 +1712,9 @@ const products = [
     { name: "парасоля для доросл", price: "290", barcode: "", category: "Господарські товари" },
     { name: "кантор електронний нов", price: "180", barcode: "", category: "Господарські товари" },
     { name: "ніж метал ручка", price: "32", barcode: "", category: "Господарські товари" },
+
     { name: "ніж черв. - син. №5", price: "32", barcode: "", category: "Господарські товари" },
+
     { name: "ніж черв. - син. №6", price: "42", barcode: "", category: "Господарські товари" },
 
 ];
