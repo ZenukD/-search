@@ -1779,6 +1779,12 @@ const products = [
     { name: "Ручка гелева, 0,5мм, фіолетова, #801, Leader", price: "10", barcode: "6922964206370", category: "Канцтовари" },
     { name: " ручка чорна 555 Leader", price: "4", barcode: "6920334755527", category: "Канцтовари" },
     { name: "поплавок експерт", price: "44", barcode: "", category: "Рибалка"},
+    { name: "машинка джип перевертиш", price: "110", barcode: "", category: "Іграшка" },
+    { name: "танк перевертиш", price: "85", barcode: "", category: "Іграшка" },
+    { name: "резинка пружинка якісна велика", price: "16", barcode: "", category: "Господарські товари" },
+    { name: "резинка пружинка набір", price: "50", barcode: "", category: "Господарські товари" },
+    { name: "дзига світиться", price: "110", barcode: "", category: "Іграшка" },
+
 
 
 ];
