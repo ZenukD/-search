@@ -422,7 +422,7 @@ const products = [
     { name: "скотч 2-ох стор паралон", price: "27", barcode: "6954872016727", category: "Канцтовари" },
     { name: "магніт 2шт", price: "17", barcode: "", category: "Канцтовари" },
     { name: "ручка 505 в асорт", price: "3", barcode: "", category: "Канцтовари" },
-    { name: "ручка 503 синя", price: "7", barcode: "6920930350362", category: "Канцтовари" },
+    { name: "ручка 503 синя", price: "8", barcode: "6920930350362", category: "Канцтовари" },
     { name: "ручка 806 А в асорт", price: "8", barcode: "", category: "Канцтовари" },
     { name: "ручка з звірятами", price: "15", barcode: "", category: "Канцтовари" },
     { name: "ручка zentek", price: "9", barcode: "", category: "Канцтовари" },
@@ -481,7 +481,7 @@ const products = [
     { name: "магніт патріотичний", price: "28", barcode: "", category: "Канцтовари" },
     { name: "стікери кольор", price: "28", barcode: "6935255895290", category: "Канцтовари" },
     { name: "канц.книга А5. 80л патріот тематика, арт 22В-002", price: "74", barcode: "4820168950704", category: "Канцтовари" },
-    { name: "зошит А4 48арк", price: "42", barcode: "4820168950193", category: "Канцтовари" },
+    { name: "зошит А4 48арк", price: "54", barcode: "4820168950193", category: "Канцтовари" },
     { name: "стікери", price: "24", barcode: "6957990902668", category: "Канцтовари" },
     { name: "папір для нотаток білий, 85*85, 300л кл", price: "28", barcode: "4820171681220", category: "Канцтовари" },
     { name: "папір для нотаток жовт", price: "14", barcode: "6970221726628", category: "Канцтовари" },
@@ -1794,6 +1794,10 @@ const products = [
     { name: "Лінійка дерев'яна 15см, кольорова, середня, патріотична", price: "23", barcode: "2000007010215", category: "Канцтовари" },
     { name: "Набір лінійок, 4пр, 20см лінійка, кольорові, пластик", price: "18", barcode: "6957268952661", category: "Канцтовари" },
     { name: "Розмальовки А4 8л. мiкс з текстами (казки) арт 11В-014", price: "11", barcode: "4820168950131", category: "Канцтовари" },
+    { name: "картки stars", price: "17", barcode: "6923602010007", category: "Іграшка" },
+    { name: "картки stars 1", price: "17", barcode: "6971013632219", category: "Іграшка" },
+
+
 ];
 
 
