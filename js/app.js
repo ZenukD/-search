@@ -1810,8 +1810,9 @@ const products = [
     { name: "гачок на липучку 8шт", price: "16", barcode: "6936926800503", category: "Господарські товари" },
     { name: "брелок том і джері", price: "35", barcode: "", category: "Господарські товари" },
     { name: "брелок сердечки", price: "34", barcode: "", category: "Господарські товари" },
-
-
+    { name: "вбивця карася 28г", price: "52", barcode: "", category: "Рибалка" },
+    { name: "Мильні бульбашки з фігуркою", price: "22", barcode: "", category: "Господарські товари" },
+    { name: "часникодавка", price: "48", barcode: "", category: "Господарські товари" },
 ];
 
 
