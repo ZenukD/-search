@@ -887,7 +887,7 @@ const products = [
     { name: "мірний стакан 250 міні", price: "9", barcode: "", category: "Господарські товари" },
     { name: "мірний стакан сер", price: "21", barcode: "", category: "Господарські товари" },
     { name: "мірний стакан 1л", price: "48", barcode: "", category: "Господарські товари" },
-    { name: "тарілка пласт косичка", price: "8", barcode: "", category: "Господарські товари" },
+    { name: "тарілка пласт косичка", price: "9", barcode: "", category: "Господарські товари" },
     { name: "миска пласт 350мл", price: "17", barcode: "", category: "Господарські товари" },
     { name: "миска пласт 240мл", price: "9", barcode: "", category: "Господарські товари" },
     { name: "тарілка квадрат пласт", price: "20", barcode: "", category: "Господарські товари" },
@@ -922,10 +922,10 @@ const products = [
     { name: "форма для льоду з кришкою", price: "50", barcode: "", category: "Господарські товари" },
     { name: "терка пласт", price: "12", barcode: "", category: "Господарські товари" },
     { name: "наклейка на плитку сер", price: "20", barcode: "6974280010711", category: "Господарські товари" },
-    { name: "горня пласт 500мл", price: "14", barcode: "", category: "Господарські товари" },
+    { name: "горня пласт 500мл", price: "18", barcode: "", category: "Господарські товари" },
     { name: "стакан пласт 300мл", price: "15", barcode: "", category: "Господарські товари" },
     { name: "новорічка в асорт", price: "20", barcode: "", category: "Господарські товари" },
-    { name: "горня 240мл", price: "12", barcode: "", category: "Господарські товари" },
+    { name: "горня 240мл", price: "13", barcode: "", category: "Господарські товари" },
     { name: "прапорець Україна маленький", price: "20", barcode: "", category: "Господарські товари" },
     { name: "конверт подарунковий на гроші", price: "6", barcode: "4820068280093", category: "Господарські товари" },
     { name: "терка на корейку дер", price: "29", barcode: "", category: "Господарські товари" },
@@ -1111,7 +1111,7 @@ const products = [
     { name: "прищепка кільце", price: "10", barcode: "", category: "Господарські товари" },
     { name: "прищепка крокодил", price: "40", barcode: "", category: "Господарські товари" },
     { name: "контейнер 1,15 з ручками", price: "52", barcode: "4820295710099", category: "Господарські товари" },
-    { name: "контейнер 2,5 євро", price: "68", barcode: "", category: "Господарські товари" },
+    { name: "контейнер 2,5 євро", price: "75", barcode: "", category: "Господарські товари" },
     { name: "шпашки 30см", price: "28", barcode: "6956288663281", category: "Господарські товари" },
     { name: "пилочка для нігтей папер", price: "18", barcode: "", category: "Господарські товари" },
     { name: "господарські товари в асортименті", price: "20", barcode: "", category: "Господарські товари" },
@@ -1813,6 +1813,10 @@ const products = [
     { name: "вбивця карася 28г", price: "52", barcode: "", category: "Рибалка" },
     { name: "Мильні бульбашки з фігуркою", price: "22", barcode: "", category: "Господарські товари" },
     { name: "часникодавка", price: "48", barcode: "", category: "Господарські товари" },
+    { name: "лопатка дит пласт хмелн", price: "40", barcode: "", category: "Господарські товари" },
+    { name: "мірний стакан 300 прозорий", price: "32", barcode: "", category: "Господарські товари" },
+
+
 ];
 
 
