@@ -1817,6 +1817,10 @@ const products = [
     { name: "мірний стакан 300 прозорий", price: "32", barcode: "", category: "Господарські товари" },
     { name: "пемза вулканічна", price: "56", barcode: "2310000181226", category: "Господарські товари" },
     { name: "набір ручок 8 кольорів", price: "58", barcode: "4645615616084", category: "Канцтовари" },
+    { name: "3Д ручка нова", price: "510", barcode: "", category: "Іграшка" },
+    { name: "антистрес спагеті", price: "40", barcode: "", category: "Іграшка" },
+    { name: "антистрес лапка в коробці", price: "95", barcode: "", category: "Іграшка" },
+    { name: "антистрес лапка на планшеті", price: "45", barcode: "", category: "Іграшка" },
 
 
 ];
