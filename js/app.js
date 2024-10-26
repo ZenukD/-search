@@ -1821,8 +1821,9 @@ const products = [
     { name: "антистрес спагеті", price: "40", barcode: "", category: "Іграшка" },
     { name: "антистрес лапка в коробці", price: "95", barcode: "", category: "Іграшка" },
     { name: "антистрес лапка на планшеті", price: "45", barcode: "", category: "Іграшка" },
-
-
+    { name: "лизун машинка", price: "54", barcode: "", category: "Іграшка" },
+    { name: "лизун чашка", price: "15", barcode: "", category: "Іграшка" },
+    { name: "лампадка серце", price: "76", barcode: "", category: "Господарські товари" },
 ];
 
 
