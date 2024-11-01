@@ -1824,6 +1824,20 @@ const products = [
     { name: "лизун машинка", price: "54", barcode: "", category: "Іграшка" },
     { name: "лизун чашка", price: "15", barcode: "", category: "Іграшка" },
     { name: "лампадка серце", price: "76", barcode: "", category: "Господарські товари" },
+    { name: "мишоловка клеєва", price: "38", barcode: "6970776626183", category: "Господарські товари" },
+    { name: "стяжки набір", price: "38", barcode: "", category: "Господарські товари" },
+    { name: "конструктор технок 0328", price: "188", barcode: "4823037600328", category: "Іграшка" },
+    { name: "гном новорічний в пакеті", price: "210", barcode: "", category: "Іграшка" },
+    { name: "кішка на мотоциклі hello kitty", price: "260", barcode: "", category: "Іграшка" },
+    { name: "конструктор технок 0496", price: "254", barcode: "4823037600496", category: "Іграшка" },
+    { name: "конструктор технок 0341", price: "307", barcode: "4823037610341", category: "Іграшка" },
+    { name: "набір інструментів технок 4401", price: "315", barcode: "4823037604401", category: "Іграшка" },
+    { name: "автобус технок 7136", price: "170", barcode: "4823037607136", category: "Іграшка" },
+    { name: "позашляховик технок 4593", price: "325", barcode: "4823037604593", category: "Іграшка" },
+    { name: "позашляховик технок 4616", price: "325", barcode: "4823037604616", category: "Іграшка" },
+    { name: "квадрокоптер технок 7969", price: "138", barcode: "4823037607969", category: "Іграшка" },
+
+
 ];
 
 
