@@ -1826,7 +1826,7 @@ const products = [
     { name: "лампадка серце", price: "76", barcode: "", category: "Господарські товари" },
     { name: "мишоловка клеєва", price: "38", barcode: "6970776626183", category: "Господарські товари" },
     { name: "стяжки набір", price: "38", barcode: "", category: "Господарські товари" },
-    { name: "конструктор технок 0328", price: "188", barcode: "4823037600328", category: "Іграшка" },
+    { name: "конструктор технок 0328", price: "180", barcode: "4823037600328", category: "Іграшка" },
     { name: "гном новорічний в пакеті", price: "210", barcode: "", category: "Іграшка" },
     { name: "кішка на мотоциклі hello kitty", price: "260", barcode: "", category: "Іграшка" },
     { name: "конструктор технок 0496", price: "254", barcode: "4823037600496", category: "Іграшка" },
@@ -1869,7 +1869,29 @@ const products = [
     { name: "куля з малюнком", price: "36", barcode: "", category: "Новорічка" },
     { name: "куля ажурна", price: "36", barcode: "", category: "Новорічка" },
     { name: "куля 80 в асортим", price: "19", barcode: "", category: "Новорічка" },
-    { name: "куля 100 в асортим", price: "28", barcode: "", category: "Новорічка" }
+    { name: "куля 100 в асортим", price: "28", barcode: "", category: "Новорічка" },
+    { name: "міні конструктор", price: "20", barcode: "", category: "Іграшка" },
+    { name: "лялька в коробці", price: "240", barcode: "", category: "Іграшка" },
+    { name: "лялька русалка Мермаід", price: "310", barcode: "", category: "Іграшка" },
+    { name: "наклейки силіконові новорічні D 13", price: "38", barcode: "6191130060133", category: "Новорічка" },
+    { name: "наклейки силіконові новорічні D 11", price: "38", barcode: "6191130060119", category: "Новорічка" },
+    { name: "пістолет з орбізами", price: "98", barcode: "6977972545614", category: "Іграшка" },
+    { name: "набір перукаря технок 6993", price: "689", barcode: "4823037606993", category: "Іграшка" },
+    { name: "маленький лікар технок 4753", price: "655", barcode: "4823037604753", category: "Іграшка" },
+    { name: "набір лікаря у рюкзаку 8638", price: "418", barcode: "4823037608638", category: "Іграшка" },
+    { name: "візочок для ляльок технок 8256", price: "545", barcode: "4823037608256", category: "Іграшка" },
+    { name: "будиночок технок 6719", price: "315", barcode: "4823037606719", category: "Іграшка" },
+    { name: "конструктор технок 6825", price: "765", barcode: "4823037606825", category: "Іграшка" },
+    { name: "футбол настільний 0335", price: "598", barcode: "4823037600335", category: "Іграшка" },
+    { name: "мозаїка технок 6047", price: "295", barcode: "", category: "Іграшка" },
+    { name: "гараж технок 8416", price: "398", barcode: "4823037608416", category: "Іграшка" },
+    { name: "набір стоматолога 7365", price: "298", barcode: "4823037607365", category: "Іграшка" },
+    { name: "пупс YL 1930K", price: "1300", barcode: "6982662245736", category: "Іграшка" },
+    { name: "конструктор технок 0334", price: "314", barcode: "4823037610334", category: "Іграшка" },
+    { name: "монополія технок 0755", price: "240", barcode: "4823037600755", category: "Іграшка" },
+    { name: "кухоний набір 4 технок 3275", price: "365", barcode: "4823037603275", category: "Іграшка" },
+    { name: "автокран технок 4555", price: "515", barcode: "4823037604555", category: "Іграшка" }
+
 
 
 ];
