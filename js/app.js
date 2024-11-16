@@ -1890,7 +1890,15 @@ const products = [
     { name: "конструктор технок 0334", price: "314", barcode: "4823037610334", category: "Іграшка" },
     { name: "монополія технок 0755", price: "240", barcode: "4823037600755", category: "Іграшка" },
     { name: "кухоний набір 4 технок 3275", price: "365", barcode: "4823037603275", category: "Іграшка" },
-    { name: "автокран технок 4555", price: "515", barcode: "4823037604555", category: "Іграшка" }
+    { name: "автокран технок 4555", price: "515", barcode: "4823037604555", category: "Іграшка" },
+    { name: "ялинка з прикрасами середня", price: 150, barcode: "", category: "Новорічка" },
+    { name: "ялинка з прикрасами мала", price: 130, barcode: "", category: "Новорічка" },
+    { name: "ялинка без прикрас", price: 98, barcode: "", category: "Новорічка" },
+    { name: "дощик 100", price: 15, barcode: "", category: "Новорічка" },
+    { name: "шапка новорічна", price: 25, barcode: "", category: "Новорічка" },
+    { name: "бантик середній новорічний", price: 10, barcode: "", category: "Новорічка" },
+    { name: "бантик мішковина новорічний", price: 13, barcode: "", category: "Новорічка" },
+    { name: "бантик великий новорічний", price: 15, barcode: "", category: "Новорічка" }
 
 
 
