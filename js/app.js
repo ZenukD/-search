@@ -1898,7 +1898,34 @@ const products = [
     { name: "шапка новорічна", price: 25, barcode: "", category: "Новорічка" },
     { name: "бантик середній новорічний", price: 10, barcode: "", category: "Новорічка" },
     { name: "бантик мішковина новорічний", price: 13, barcode: "", category: "Новорічка" },
-    { name: "бантик великий новорічний", price: 15, barcode: "", category: "Новорічка" }
+    { name: "бантик великий новорічний", price: 15, barcode: "", category: "Новорічка" },
+    { name: "сніг в балончику", price: 60, barcode: "", category: "Новорічка" },
+    { name: "косметика дитяча слоник", price: 345, barcode: "", category: "Іграшка" },
+    { name: "дитяча косметика в короб + для нігтів", price: 245, barcode: "", category: "Іграшка" },
+    { name: "сейф на батар", price: 595, barcode: "", category: "Іграшка" },
+    { name: "літак для барбі з аксесуарами", price: 570, barcode: "", category: "Іграшка" },
+    { name: "машинка на батар 598", price: 220, barcode: "2023032300472", category: "Іграшка" },
+    { name: "кружка метал 9см", price: 60, barcode: "6989908910021", category: "Господарські товари" },
+    { name: "кружка метал 10см", price: 70, barcode: "6989908910038", category: "Господарські товари" },
+    { name: "лялька в коробці УХ618А07", price: 190, barcode: "6977670434784", category: "Іграшка" },
+    { name: "лялька М4681", price: 415, barcode: "6903317410323", category: "Іграшка" },
+    { name: "лялька CQ2819", price: 240, barcode: "69033176054941", category: "Іграшка" },
+    { name: "трейлер 9002-33", price: 270, barcode: "690337533718", category: "Іграшка" },
+    { name: "джип 906-29", price: 230, barcode: "6903158320010", category: "Іграшка" },
+    { name: "трейлер XNB08-8", price: 305, barcode: "6903317304943", category: "Іграшка" },
+    { name: "набір машинок С22", price: 170, barcode: "6903317519088", category: "Іграшка" },
+    { name: "машинка 912-А58", price: 230, barcode: "6903317524525", category: "Іграшка" },
+    { name: "паровоз іграшка 2366", price: 315, barcode: "6903169234016", category: "Іграшка" },
+    { name: "робот 809 А1", price: 180, barcode: "6903139459012", category: "Іграшка" },
+    { name: "косметика набір 2029", price: 58, barcode: "6903317604906", category: "Іграшка" },
+    { name: "набір лікаря 623-3", price: 134, barcode: "6903317589845", category: "Іграшка" },
+    { name: "набір лікаря 666-4", price: 98, barcode: "6903317545629", category: "Іграшка" },
+    { name: "зброя базука", price: 255, barcode: "", category: "Іграшка" },
+    { name: "настільна гра Діно Парк", price: 120, barcode: "", category: "Іграшка" },
+    { name: "екскаватор на пульті 0507-17", price: 495, barcode: "6903317604210", category: "Іграшка" },
+    { name: "машинка на пульті 11-25", price: 595, barcode: "6903317164035", category: "Іграшка" },
+    { name: "трактор з причепом 07-711", price: 205, barcode: "4820102290620", category: "Іграшка" }
+
 
 
 
