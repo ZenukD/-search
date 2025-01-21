@@ -1976,9 +1976,16 @@ const products = [
     { name: "вага з чашею", price: 410, barcode: "", category: "Господарські товари" },
     { name: "брелок ведмідь", price: 32, barcode: "", category: "Господарські товари" },
     { name: "брелок серце", price: 30, barcode: "", category: "Господарські товари" },
-    { name: "голка для мяча", price: 36, barcode: "", category: "Господарські товари" }
+    { name: "голка для мяча", price: 36, barcode: "", category: "Господарські товари" },
 
-
+    { name: "коляска для ляльки", price: 558, barcode: "6903118236016", category: "Іграшка" },
+    { name: "коляска тростинка дитяча", price: 215, barcode: "6903118242017", category: "Іграшка" },
+    { name: "пороотяг довга ручка", price: 639, barcode: "", category: "Іграшка" },
+    { name: "герой, комбат в коробці", price: 80, barcode: "", category: "Іграшка" },
+    { name: "швуйна машинка + нитка", price: 498, barcode: "", category: "Іграшка" },
+    { name: "мікрофон дитячий", price: 176, barcode: "", category: "Іграшка" },
+    { name: "сейф копілка", price: 650, barcode: "", category: "Іграшка" },
+    { name: "рушники в наборі 3шт коробка", price: 149, barcode: "", category: "Господарські товари" }
 ];
 
 
