@@ -1977,7 +1977,6 @@ const products = [
     { name: "брелок ведмідь", price: 32, barcode: "", category: "Господарські товари" },
     { name: "брелок серце", price: 30, barcode: "", category: "Господарські товари" },
     { name: "голка для мяча", price: 36, barcode: "", category: "Господарські товари" },
-
     { name: "коляска для ляльки", price: 558, barcode: "6903118236016", category: "Іграшка" },
     { name: "коляска тростинка дитяча", price: 215, barcode: "6903118242017", category: "Іграшка" },
     { name: "пороотяг довга ручка", price: 639, barcode: "", category: "Іграшка" },
@@ -1985,7 +1984,17 @@ const products = [
     { name: "швуйна машинка + нитка", price: 498, barcode: "", category: "Іграшка" },
     { name: "мікрофон дитячий", price: 176, barcode: "", category: "Іграшка" },
     { name: "сейф копілка", price: 650, barcode: "", category: "Іграшка" },
-    { name: "рушники в наборі 3шт коробка", price: 149, barcode: "", category: "Господарські товари" }
+    { name: "рушники в наборі 3шт коробка", price: 149, barcode: "", category: "Господарські товари" },
+    { "name": "ніж розкладний середній", "price": 149, "barcode": "", "category": "Господарські товари" },
+    { "name": "ніж розкладний малий", "price": 116, "barcode": "", "category": "Господарські товари" },
+    { "name": "батарейка таблетка №13", "price": 10, "barcode": "", "category": "Господарські товари" },
+    { "name": "стакан однораз прозор пласт", "price": 1.5, "barcode": "", "category": "Господарські товари" },
+    { "name": "стакан стопка мала пластик", "price": 1, "barcode": "", "category": "Господарські товари" },
+    { "name": "судок одноразовий ПЕТ 10", "price": 7, "barcode": "", "category": "Господарські товари" },
+    { "name": "судок одноразовий ПС 120", "price": 10, "barcode": "", "category": "Господарські товари" },
+    { "name": "тарілка картонна", "price": 1, "barcode": "", "category": "Господарські товари" },
+    { "name": "свічка стрітенська", "price": 98, "barcode": "", "category": "Господарські товари" }
+
 ];
 
 
